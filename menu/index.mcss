@@ -1,0 +1,32 @@
+@import './core.mcss';
+
+// Component:       `m-menu`
+// ========================================================================
+
+.m-menu {
+    width: $field_width;
+    max-height: 200px;
+    margin: 2px 0;
+
+    > li {
+        padding: 0;
+
+        > a, > span { padding: 3px 14px; }
+
+        > .m-menu {
+            margin-top: -6px;
+            margin-left: 1px;
+        }
+    }
+
+    > li.z-more {
+        &:after {
+            position: absolute;
+            @extend .u-icon;
+            @extend .u-icon-caret-right:before;
+            right: 5px;
+            top: 0;
+            padding: 3px 0;
+        }
+    }
+}

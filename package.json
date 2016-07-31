@@ -1,0 +1,17 @@
+{
+  "name": "rgui-ui-menu",
+  "description": "Regular UI - Menu",
+  "version": "0.2.0-alpha",
+  "author": "Rainfore <rainforest92@126.com>",
+  "main": "./index.js",
+  "repository": "regular-ui/ui-menu",
+  "homepage": "http://regular-ui.github.io",
+  "bugs": {"url": "http://github.com/regular-ui/ui-menu/issues"},
+  "license": "MIT",
+  "keywords": ["regular", "ui", "rgui", "menu"],
+  "tags": ["regular", "ui", "rgui", "menu"],
+  "dependencies": {
+    "rgui-ui-listview": "^0.2.0-alpha",
+    "rgui-ui-overlay": "^0.2.0-alpha.1"
+  }
+}
