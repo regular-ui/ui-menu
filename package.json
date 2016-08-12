@@ -13,5 +13,8 @@
   "dependencies": {
     "rgui-ui-listview": "^0.2.0-alpha",
     "rgui-ui-overlay": "^0.2.0-alpha.1"
+  },
+  "peerDependencies": {
+    "regularjs": "^0.4.3"
   }
 }

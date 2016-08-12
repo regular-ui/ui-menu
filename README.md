@@ -21,8 +21,7 @@ Regular UI - Menu
 
 ## Menu（菜单）
 
-- 基础示例+API: https://regular-ui.github.io/ui-menu/menu/index.html
-- 进阶案例: https://regular-ui.github.io/ui-menu/menu/case.html
+- 基础示例+进阶案例+API: https://regular-ui.github.io/ui-menu/menu/index.html
 
 ## Copyright and License
 
