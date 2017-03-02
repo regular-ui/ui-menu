@@ -4,8 +4,8 @@ import template from './index.rgl';
 
 /**
  * @class Menu
- * @extend ListView
- * @param {object}                  options.data                     =  绑定属性
+ * @extends ListView
+ * @param {Object}                  options.data                     =  绑定属性
  * @param {boolean=true}            options.data.visible             => 是否显示
  * @param {string=''}               options.data.class               => 补充class
  */

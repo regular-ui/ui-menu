@@ -1,3 +1,3 @@
-import Menu from './menu';
+import Menu from './src/menu';
 
 export { Menu };
